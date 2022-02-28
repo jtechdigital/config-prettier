@@ -1,0 +1,24 @@
+{
+  "name": "@jtechdigital/config-prettier",
+  "version": "0.0.0",
+  "private": true,
+  "description": "J-Tech Digital Prettier Configs",
+  "keywords": [
+    "jtechdigital",
+    "prettier"
+  ],
+  "homepage": "https://github.com/jtechdigital/prettier#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jtechdigital/prettier.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Michael Li",
+    "email": "michael.li@jtechdigital.com"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "@types/prettier": "2.4.4"
+  }
+}
