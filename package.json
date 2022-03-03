@@ -19,6 +19,7 @@
   },
   "main": "index.js",
   "devDependencies": {
-    "@types/prettier": "2.4.4"
+    "@types/prettier": "2.4.4",
+    "prettier-plugin-packagejson": "2.2.15"
   }
 }
